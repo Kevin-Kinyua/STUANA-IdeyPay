@@ -1,0 +1,17 @@
+Tovo Angular 9 Version 2.2 Updates :
+Update: Upgrade theme from angular 8 to 9
+
+Tovo Angular 8 Version 2.1 Updates :
+Update : Upgrade theme in Angular Universal(SSR)
+Update : Make it SEO friendly
+Update : Convert to No JQuery
+
+Tovo Angular 8 Version 2.0 Updates :
+upgraded to angular 8 version
+
+Tovo Angular 6 Version 2.0 Updates :
+Fixed SCSS : Color Change Issue
+Added: Owl Carosel Dynamic Data  ( If images array is dynamically changing pass this array to [items] input )
+Added: Sign in , Signup Forgot pages 
+Added: 404 Error Page
+Added: Thankyou , Downloads , Faq , Review , Coming Soon , Email Template Pages
