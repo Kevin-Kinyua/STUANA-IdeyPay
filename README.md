@@ -16,7 +16,7 @@ ANGULAR MATERIAL
 > ng add @angular/material
 
 To start application run
-> cd my-app
+> cd landing-page
 
 > ng serve --open
 
